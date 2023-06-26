@@ -1,0 +1,12 @@
+a :- b, j , q ;
+a :- c ; 
+p :- b, q , j ;
+p :- b , s ;
+m ; 
+b :- m; 
+c :- t , s; 
+m :- a ,s; 
+t :- ; 
+s :- r ,q ;
+r :- w ,y ;
+s ;
